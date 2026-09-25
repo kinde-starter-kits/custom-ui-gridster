@@ -1,2 +1,7 @@
-* @kinde-starter-kits/giants-kinde
+* @kinde-oss/giants-kinde
 
+# Dependency-related files
+package.json @kinde-oss/sdk-engineers
+**/package.json @kinde-oss/sdk-engineers
+package-lock.json @kinde-oss/sdk-engineers
+**/package-lock.json @kinde-oss/sdk-engineers
